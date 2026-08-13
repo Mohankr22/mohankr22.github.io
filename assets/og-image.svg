@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#111a2f"/></linearGradient><linearGradient id="tx" x1="0" x2="1"><stop stop-color="#67a8ff"/><stop offset="1" stop-color="#9b91ff"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1040" cy="80" r="250" fill="#4a72ff" opacity=".08"/>
+<circle cx="120" cy="570" r="260" fill="#8a7dff" opacity=".06"/>
+<text x="90" y="220" fill="#67a8ff" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">PYTHON · FULL STACK · AI/ML</text>
+<text x="90" y="320" fill="white" font-family="Arial,sans-serif" font-size="82" font-weight="700">Mohan K R</text>
+<text x="90" y="380" fill="#b8c1d2" font-family="Arial,sans-serif" font-size="30">MCA · Python Developer · Bangalore</text>
+<rect x="90" y="440" width="120" height="120" rx="32" fill="#17243f" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="150" y="514" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="34" font-weight="700">MK</text>
+</svg>
